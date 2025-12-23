@@ -129,6 +129,9 @@ Analyzing crime trends against women across Indian states to identify high-risk 
 
 # Final Observations
 
+<img width="719" height="482" alt="image" src="https://github.com/user-attachments/assets/96e18d06-84ab-43a9-be0a-c7ccd3b26256" />
+
+
 ### This project delivers a structured and data-driven analysis of crime against women in India using Excel.
 
 ### It demonstrates practical data analysis and visualization skills using real-world, socially relevant data.
